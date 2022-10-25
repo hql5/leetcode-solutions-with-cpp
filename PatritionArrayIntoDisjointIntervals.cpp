@@ -1,7 +1,7 @@
 /*
  * @Author: lhq
  * @Date: 2022-10-24 19:32:44
- * @LastEditTime: 2022-10-24 20:08:21
+ * @LastEditTime: 2022-10-25 19:46:41
  * @LastEditors: lhq
  * @Description: 将一个数组划分为两个连续数组
  * @FilePath: \leetcode-solutions-with-cpp\PatritionArrayIntoDisjointIntervals.cpp
@@ -31,13 +31,3 @@ public:
         return idx+1;
     }
 };
-
-int main() {
-    int tnum;
-    vector<int> num;
-
-    Solution slu;
-    slu.partitionDisjoint(num);
-
-    return 0;
-}
