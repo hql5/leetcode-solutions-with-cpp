@@ -1,10 +1,10 @@
 /*
  * @Author: lhq
  * @Date: 2022-12-05 21:58:24
- * @LastEditTime: 2022-12-06 14:04:44
+ * @LastEditTime: 2022-12-06 16:51:29
  * @LastEditors: lhq
  * @Description: 01背包问题。动态规划求解
- * @FilePath: \leetcode-solutions-with-cpp\01_package.cc
+ * @FilePath: \leetcode-solutions-with-cpp\01_bag.cc
  */
 #include <iostream>
 #include <vector>
